@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\obj\Debug\matematik hesaplari.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\obj\Debug\matematik_hesaplari.Form1.resources
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\obj\Debug\matematik_hesaplari.Properties.Resources.resources
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\obj\Debug\matematik hesaplari.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\obj\Debug\matematik hesaplari.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\bin\Debug\matematik hesaplari.exe.config
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\bin\Debug\matematik hesaplari.exe
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\bin\Debug\matematik hesaplari.pdb
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\obj\Debug\matematik hesaplari.exe
+C:\Users\Windows10\source\repos\matematik hesaplari\matematik hesaplari\obj\Debug\matematik hesaplari.pdb
